@@ -1,2 +1,2 @@
-# cradit-card-default-analysis
+# credit-card-default-analysis
 Databriks exercises
